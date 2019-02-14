@@ -1,0 +1,10 @@
+name: linux_password_compliance_el6
+title: EL6 linux password compliance InSpec Profe
+maintainer: Sebastien Chartrand
+copyright: All rights reseved
+copyright_email: sebastien.chartrand@fujitsu.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+supports:
+  platform: os
